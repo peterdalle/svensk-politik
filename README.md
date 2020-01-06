@@ -4,12 +4,13 @@ Hjälpfunktioner för R för att hantera svenska politiska partier.
 
 ## Exempel
 
-Plockar ut namn, engelskt namn samt partifärg för Socialdemokraterna (`S`).
+Plockar ut namn, engelskt namn, partifärg samt partisymbol för Socialdemokraterna (`S`).
 
 ```r
 party_names["S"]
 party_names_eng["S"]
 party_colors["S"]
+party_symbols["S"]
 ```
 
 ## Källor 
