@@ -15,4 +15,5 @@ party_symbols["S"]
 
 ## Källor 
 
-- Partisymboler för svenska partier nedladdade från respektive partis Wikipedia-sida.
+- PNG-format nedladdade från respektive partis Wikipedia-sida
+- SVG-format nedladdade från <https://commons.wikimedia.org/wiki/Category:SVG_logos_of_political_parties_in_Sweden> samt <http://www.rsmhstockholm.se/val2018/>
